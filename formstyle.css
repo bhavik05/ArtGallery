@@ -1,0 +1,39 @@
+body
+{
+    background-image: url(https://imgmedia.lbb.in/media/2018/08/5b7c1a25d994ba0a5c820911_1534859813205.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1
+{
+    color:dodgerblue;
+    font-size: 50px;
+}
+
+form
+{
+    color:dodgerblue;
+    font-size: 20px;
+    
+}
+
+
+
+.button
+{   
+    margin: 20px;
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    background-image:linear-gradient(90deg, #83a4d4, #b6fbff);
+}
+
+.button:hover
+{
+    transform: scale(1.5);
+    background-image: linear-gradient(90deg, #fdfc47, #24fe41);
+    transition: 1s;
+    
+}

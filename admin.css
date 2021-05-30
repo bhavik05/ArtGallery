@@ -1,0 +1,39 @@
+body
+{
+    background-image: url(https://mymodernmet.com/wp/wp-content/uploads/2019/03/elements-of-art-6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1
+{
+    color:deeppink;
+    text-align: center;
+    font-size: 80px;
+}
+button
+{   
+    margin: 20px;
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    background-image:linear-gradient(90deg, #83a4d4, #b6fbff);
+}
+
+button:hover
+{
+    transform: scale(1.5);
+    background-image: linear-gradient(90deg, #fdfc47, #24fe41);
+    transition: 1s;
+    
+}
+
+.buttons
+{
+    position: relative;
+    left: 400px;
+}
+
+
+

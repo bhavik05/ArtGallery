@@ -1,0 +1,158 @@
+body
+{
+    background-image: linear-gradient(90deg, #FC354C,#0ABFBC);
+    
+}
+
+
+.container
+{   
+    height: 550px;
+    width: 400px;
+    background:white;
+    display: flex;
+    flex-direction: column;
+    margin: 2% auto;
+    
+    
+}
+
+
+
+    
+#btn
+{   
+    margin-top: 20px;
+    left:110px;
+    width:180px;
+    height: 35px;
+    border: 0;
+    border-radius: 20px;
+    background: white;
+    /*background-image: linear-gradient(90deg, #ffe259, #ffa751);*/
+    
+    position: relative;
+    
+    
+    font-size: 25px;
+    /*font-family: Lucida Calligraphy;*/
+    color: /*#F01A92*/black;
+    /*text-shadow: 2px 2px 7px red;*/
+}
+
+
+
+.details
+{
+    margin-top: 20px;
+    margin-left: 80px;
+    font-size: 20px;
+}
+
+
+
+
+.userinputs
+{
+    margin-left: 5px;
+    margin-top: 4px;
+    border: 0px;
+    outline: none;
+    background: #f0f0f0;
+}
+
+
+#passw
+{
+    position: relative;
+    left:-4px;
+}
+
+.submits
+{   position: relative;
+    left: 75px;
+    border: 0px;
+    width: 80px;
+    height: 25px;
+    border-radius: 10px;
+    background-image: linear-gradient(90deg,#FC354C,#0ABFBC );
+    outline: none;
+    color: white;
+    /*font-family: Lucida Calligraphy;*/    
+}
+
+
+.submits:hover
+{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+hr
+{
+    position: relative;
+    left:-40px;
+    
+}
+
+
+.social_media
+{
+    display: flex;
+    direction: row;
+    position: relative;
+    left: 65px;
+    
+}
+
+
+.sm_elements
+{
+    margin-right: 25px;
+    margin-left: 20px;
+}
+
+
+.sm_elements:hover
+{
+    transform: scale(1.1);
+    transition: 0.75s;
+}
+
+#btn2
+{
+    
+    position: relative;
+    left: 155px;
+    top: 15px;
+    width: 80px;
+    border-radius: 8px;
+    border: 0px;
+    outline: none;
+    background-image: linear-gradient(90deg, #dd5389,#f7bb97 );
+    color: white;
+    height: 20px;
+    
+}
+
+#btn2:hover
+{
+    transform: scale(1.1);
+    transition: 0.75s;
+}
+
+
+
+#t_c
+{
+    font-size: 12px;
+}
+
+h1
+{
+    font-size: 40px;
+    color: white;
+    font-family:Lucida Calligraphy;
+    text-align: center;
+}
+
